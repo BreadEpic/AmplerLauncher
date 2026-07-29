@@ -1,0 +1,6 @@
+Hello! This launcher is experimental.
+IF YOU EXPERIENCE LAG, USE THE FOLLOWING LAUNCHERS:
+-Anything with "Wasm" in the name
+-Any mod with optimisation modes
+However, I highly recommend you use "Recent launcher" with optimisation mod enabled.
+Enjoy!
